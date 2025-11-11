@@ -2,10 +2,6 @@
 
 ### 🕝 Updated: November 11, 2025
 
-### 👤 Author: Rishi
-
-### 🤠 Reviewer: ChatGPT (GPT-5)
-
 ### 🔧 Environment: Ubuntu (FastAPI + Flask hybrid + Temporal)
 
 ---
